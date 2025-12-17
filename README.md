@@ -58,7 +58,4 @@ Conclusion:
 
 
 
-✔ Help you upload this project to GitHub
-✔ Prepare viva explanation
 
-Just tell me 😊
